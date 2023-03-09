@@ -9,5 +9,5 @@ A windows implementation of the `alias` command on unix.
 
 ## Usage
 
-- `alias [new alias] [command]` the command can contain spaces if surrounded in quotes.
+- `alias [new alias] [command]` (the command can contain spaces if surrounded in quotes)
 - Can be used with the command you specified in the second argument.
