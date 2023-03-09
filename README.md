@@ -4,7 +4,7 @@ A windows implementation of the `alias` command on unix.
 
 ## Installation
 
-1. Download the latest release of the installer [here](https://github.com/anotherpillow/winalias-installer/releases)
+1. Download the latest release of the installer [here](https://github.com/anotherpillow/winalias/releases)
 2. Run the installer and follow the instructions given.
 
 ## Usage
